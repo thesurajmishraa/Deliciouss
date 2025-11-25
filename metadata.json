@@ -1,0 +1,5 @@
+{
+  "name": "Delicious",
+  "description": "A premium, Zomato-style food ordering application featuring a vast menu of Pizzas, Biryanis, Burgers, and more. Includes an AI-powered 'Chef Genius' to help users choose their perfect meal.",
+  "requestFramePermissions": []
+}
